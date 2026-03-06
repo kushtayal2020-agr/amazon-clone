@@ -39,9 +39,8 @@ amazon-clone
 
 The main goal of this project is to practice **frontend layout design**, improve understanding of **CSS positioning and Flexbox**, and recreate a real-world website interface.
 
-## 📸 Preview
-
-Amazon Homepage UI Clone built for learning frontend development.
+## Live Demo
+https://kushtayal2020-agr.github.io/amazon-clone
 
 ## 👨‍💻 Author
 
